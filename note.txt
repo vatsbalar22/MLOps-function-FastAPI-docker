@@ -1,0 +1,4 @@
+git status 
+git add makefile
+git add requirements.txt
+git commit -m "adding function"
