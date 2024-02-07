@@ -3,4 +3,6 @@ git add makefile
 git add requirements.txt
 git commit -m "adding function"
 
+in the git commit -m only this code else is comment 
+ 
 always update togethare
