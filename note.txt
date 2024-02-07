@@ -16,3 +16,5 @@ docker run -p 127.0.0.1:8080:8080 4bd69f9c82b5
 docker build -t myapp .
 
 docker run -p 8080:8080 myapp
+
+bash invoke.sh
